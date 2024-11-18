@@ -59,6 +59,12 @@ Partie 7
 
 1. Ajouter un submodule
 
+1-cela permet d'éviter les conflits et de séparer les repos en repos plus simples et plus petits en terme de taille .
+
+2. Initialiser et mettre à jour les submodules
+
+1- La commande qui permet cela est git submodule update –remote
+
 
 
 
