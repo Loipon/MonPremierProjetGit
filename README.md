@@ -53,6 +53,13 @@ Partie 6
 
 2. Cherry-pick
 
+2- Cherry-Pick permet d'ajouter des commits spécifiques d'une branche dans une autre branche
+
+Partie 7
+
+1. Ajouter un submodule
+
+
 
 
 
