@@ -42,7 +42,7 @@ Partie 5
 
 2. Résoudre des conflits
 
-1-
+1-Il f  ut utiliser un git rebase --continue
 
 
 Partie 6 
